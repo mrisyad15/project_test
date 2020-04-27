@@ -1,0 +1,196 @@
+body {
+  /*min-height: 2000px;*/
+  padding-top: 70px;
+}
+
+.nafa {
+  display: inline-block;
+  padding: 0 15px;
+  height: 40px;
+  font-size: 16px;
+  line-height: 40px;
+  border-radius: 25px;
+  border: solid 1px #eee;
+  background-color: #ffffff;
+  box-shadow: 1px 3px 5px rgba(0,0,0,0.2);
+}
+
+.nafa img {
+  float: left;
+  padding-top: 3px;
+  margin: 0 1px 0 -25px;
+  height: 35px;
+  width: 60px;
+  border-radius: 50%;
+}
+
+.button {
+  background-color: #db5252;
+  border: none;
+  color: white;
+  padding: 8px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 10px 2px;
+  margin-right: 15px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+.button:hover {
+  background-color: #bb2626;
+}
+
+.jumbotron1 {
+	position: relative;
+	height: 100%
+	padding-top:30px;
+	padding-bottom:30px;
+	margin-bottom:30px;
+	color:inherit;
+	background-color:#fff;
+	box-shadow: 1px 6px 20px rgba(0,0,0,0.2);
+	}
+.jumbotron1 .h1,.jumbotron1 h1 {
+	color:inherit;
+	}
+.jumbotron1 p {
+	margin-bottom:15px;
+	font-size:21px;
+	font-weight:200;
+	}
+.jumbotron1>hr {
+	border-top-color:#d5d5d5;
+	}
+.container .jumbotron1,.container-fluid .jumbotron1 {
+	border-radius:6px; 
+	}
+.jumbotron1 .container {
+	max-width:100%;
+	}
+@media screen and (min-width:768px){
+	.jumbotron1{
+		padding-top:3px;
+		padding-bottom:17.8%;
+		}
+	.container .jumbotron1,.container-fluid .jumbotron1{
+		padding-right:60px;
+		padding-left:60px;
+		}
+	.jumbotron1 .h1,.jumbotron1 h1{
+		font-size:63px;
+		}
+	}
+
+.jumbotron2 {
+	position: relative;
+	height: 100%
+	padding-top:30px;
+	padding-bottom:30%;
+	margin-bottom:30%;
+	color:inherit;
+	background-color:#fff;
+	box-shadow: 1px 6px 20px rgba(0,0,0,0.2);
+	}
+.jumbotron2 .h1,.jumbotron2 h1 {
+	color:inherit;
+	}
+.jumbotron2 p {
+	margin-bottom:15px;
+	font-size:21px;
+	font-weight:200;
+	}
+.jumbotron2>hr {
+	border-top-color:#d5d5d5;
+	}
+.container .jumbotron2,.container-fluid .jumbotron2 {
+	border-radius:6px; 
+	}
+.jumbotron2 .container {
+	max-width:100%;
+	}
+@media screen and (min-width:768px){
+	.jumbotron2{
+		padding-top:3px;
+		padding-bottom:200%;
+		}
+	.container .jumbotron2,.container-fluid .jumbotron2{
+		padding-right:10px;
+		padding-left:10px;
+		}
+	.jumbotron2 .h1,.jumbotron2 h1{
+		font-size:63px;
+		}
+	}
+
+.kt-portlet__head-title{
+	margin-top: 10px;
+}
+
+.nine {
+	margin-top: 2px;
+   	text-align: center;
+}
+
+.panel-kanan {
+  display: inline-block;
+  padding: 0 97% 5px 2px;
+  margin: 15px;
+  height: 90%;
+  font-size: 16px;
+  line-height: 40px;
+  border-radius: 10px;
+  border: solid 1px #eee;
+  background-color: #ffffff;
+  box-shadow: 1px 3px 5px rgba(0,0,0,0.2);
+}
+
+.panel-kanan img {
+  float: left;
+  padding-top: 3px;
+  margin: 0 1px 0 -25px;
+  height: 35px;
+  width: 60px;
+  border-radius: 50%;
+}
+
+.bulet {
+  display: inline-block;
+  margin: 15px 15px 15px 15px;
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  border: solid 1px #eee;
+  background-color: #ffffff;
+  box-shadow: 1px 6px 2px rgba(0,0,0,0.2);
+}
+
+.glyphicon{
+	padding: 15px;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;   
+   width: 100%;
+   background-color: #be3234;
+   color: white;
+}
+
+/*.bg-img-circle{
+	width: 123%;
+	height: 35px;
+	background: #ffffff;
+	border: solid 1px #eee;
+	border-radius: 20px;
+	padding-top: 2px;
+	margin-right: 123%;
+	box-shadow: 1px 3px 5px rgba(0,0,0,0.2);
+}
+
+.text-project{
+	padding-top: 4px;
+	padding-left: 15%;
+}*/
